@@ -18,6 +18,7 @@ Before this I was a quality engineer in manufacturing for 3 years. I still work 
 - **[Floating Chat Buttons](https://github.com/Amitoshi/floating-chat-buttons):** WhatsApp, Call and other contact buttons with a private callback inbox
 - **[Outreach Tracker](https://github.com/Amitoshi/outreach-tracker):** a small CRM in WP admin (custom table + REST API)
 - **[WP Plugin Detector](https://github.com/Amitoshi/wp-plugin-detector):** a Chrome extension that lists the plugins a WordPress page loads
+- **[AI / ML practice](https://github.com/Amitoshi/ai-ml-practice):** my Colab notebooks: CNN image classification, LSTM text generation, GPT-2 fine-tuning, and a RAG chatbot over DOCX and PDF files
 
 Also: an llms.txt generator, multi-step forms for Contact Form 7, and an AI post publisher. Some of these I plan to sell, so not all of the code is public.
 
