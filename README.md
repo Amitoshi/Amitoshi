@@ -9,22 +9,16 @@ Before this I was a quality engineer in manufacturing for 3 years. I still work 
 - **PHP & WordPress:** custom themes and child themes, plugins, hooks, custom post types, ACF, Gutenberg blocks, REST API, AJAX, WP-CLI
 - **WooCommerce:** custom pricing, product options, checkout fields, shipping rules, order emails
 - **Front end:** JavaScript, jQuery, HTML, CSS, Elementor / Divi / WPBakery when the project needs it
-- **Server side:** MySQL, cPanel, Cloudflare, SMTP and SPF / DKIM / DMARC, staging and migrations
-- **AI:** Claude, ChatGPT and Gemini APIs, and adding AI features to WordPress. Python and Google Colab from my ML course.
+- **Server side:** MySQL, cPanel, Cloudflare, SMTP and SPF / DKIM / DMARC, staging and migration**Things I've built (code in the pinned repos)**
 
-**Things I've built (code in the pinned repos)**
-
+- **[Personal Outreach](https://github.com/Amitoshi/personal-outreach):** my largest plugin, for outreach and follow-ups from WordPress. It has a job queue, IMAP reply tracking, a REST API, WP-CLI and a React/TypeScript admin.
 - **[SEO Fixer](https://github.com/Amitoshi/seo-fixer):** a WordPress SEO plugin with a health score, plain-English issues and one-click fixes with undo
+- **[Form Steps for Contact Form 7](https://github.com/Amitoshi/form-steps-for-contact-form-7):** a confirm screen, multi-step pages and a thank-you screen for CF7 (in review on WordPress.org)
 - **[Floating Chat Buttons](https://github.com/Amitoshi/floating-chat-buttons):** WhatsApp, Call and other contact buttons with a private callback inbox
 - **[Outreach Tracker](https://github.com/Amitoshi/outreach-tracker):** a small CRM in WP admin (custom table + REST API)
 - **[WP Plugin Detector](https://github.com/Amitoshi/wp-plugin-detector):** a Chrome extension that lists the plugins a WordPress page loads
-- **[AI / ML practice](https://github.com/Amitoshi/ai-ml-practice):** my Colab notebooks: CNN image classification, LSTM text generation, GPT-2 fine-tuning, and a RAG chatbot over DOCX and PDF files
+- **[AI / ML practice](https://github.com/Amitoshi/ai-ml-practice):** 40 beginner notebooks covering CNNs, LSTMs, a small Transformer, GPT-2 fine-tuning, a RAG chatbot, Whisper and more
 
-Also: an llms.txt generator, multi-step forms for Contact Form 7, and an AI post publisher. Some of these I plan to sell, so not all of the code is public.
+On the sites I built over the last year, about 80% of the plugins are custom ones I wrote; the rest are standard SEO and backup plugins. Medium and advanced AI projects are coming next.
 
-**Right now** I'm building AI tools for WordPress and moving my older code and Colab notebooks into this account.
-
-**Find me:** [Portfolio](https://vexoriaai.com) · amitshaw9818@gmail.com
-
-I'm open to a full-time PHP / WordPress / AI role, remote or on-site.
-
+s
