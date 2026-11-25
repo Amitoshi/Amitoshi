@@ -12,18 +12,18 @@ Before this I was a quality engineer in manufacturing for 3 years. I still work 
 - **Server side:** MySQL, cPanel, Cloudflare, SMTP and SPF / DKIM / DMARC, staging and migrations
 - **AI:** Claude, ChatGPT and Gemini APIs, and adding AI features to WordPress. Python and Google Colab from my ML course.
 
-**My own plugins**
+**Things I've built (code in the pinned repos)**
 
-- **SEO Fixer:** audits a WordPress site and fixes common on-page SEO issues in one click
-- **llms.txt Generator:** builds an llms.txt file from the sitemap so AI search tools can read the site
-- **Form Steps for Contact Form 7:** turns a long CF7 form into a multi-step form
-- **One Click AI Post Publisher:** drafts a post with AI and publishes it to WordPress
-- **Outreach Tracker:** a small CRM inside WP admin for follow-ups
+- **[SEO Fixer](https://github.com/Amitoshi/seo-fixer):** a WordPress SEO plugin with a health score, plain-English issues and one-click fixes with undo
+- **[Floating Chat Buttons](https://github.com/Amitoshi/floating-chat-buttons):** WhatsApp, Call and other contact buttons with a private callback inbox
+- **[Outreach Tracker](https://github.com/Amitoshi/outreach-tracker):** a small CRM in WP admin (custom table + REST API)
+- **[WP Plugin Detector](https://github.com/Amitoshi/wp-plugin-detector):** a Chrome extension that lists the plugins a WordPress page loads
 
-Some of these are free, some I'm preparing to sell. Repos are going up one by one.
+Also: an llms.txt generator, multi-step forms for Contact Form 7, and an AI post publisher. Some of these I plan to sell, so not all of the code is public.
 
 **Right now** I'm building AI tools for WordPress and moving my older code and Colab notebooks into this account.
 
 **Find me:** [Portfolio](https://vexoriaai.com) · amitshaw9818@gmail.com
 
 I'm open to a full-time PHP / WordPress / AI role, remote or on-site.
+
